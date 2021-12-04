@@ -6,7 +6,7 @@ platform, and implementing some of its capabilities.
 The first step is to **install the Datadog agent on a host**, such as on my
 **Mac / Windows / Linux VM / Docker / Heroku**.
 
-Then, **Monitor a Cloud based host** on **AWS** as a second step with the following 
+Then, **Monitor a Cloud based host** on **AWS** as a second step with the following
 requirements:
 
 1. Creating a cloud provider account (**AWS/GCP/Azure**)
@@ -25,4 +25,4 @@ lines in the UI.
 **Question 2** - Metric API Help
 
 
-[embed]http://example.com/file.pdf[/embed]
+[embed]https://github.com/AminuHabib/Datadog-Environment/blob/main/file/Solutions%20Engineer%20Report.pdf[/embed]
