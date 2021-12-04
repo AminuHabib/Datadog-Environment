@@ -24,5 +24,8 @@ lines in the UI.
 
 **Question 2** - Metric API Help
 
+## Solution
+You can check the **file** folder for my solution.
 
-[embed]https://github.com/AminuHabib/Datadog-Environment/blob/main/file/Solutions%20Engineer%20Report.pdf[/embed]
+## Author
+Aminu Habib
